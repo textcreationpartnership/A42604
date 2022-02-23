@@ -1,0 +1,381 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A generall bill of the mortality of the clergy of London; or, a brief martyrology and catalogue of the learned, grave, religious, and painfull ministers of the City of London who have been imprisoned, plundered, and barbarousl[y] used, and deprived of all livelihood for themselve[s] and their families, in the late rebellion, for their constancy in the Protestant religion, established in this kingdom[,] and their loyalty to their King, under that great persecution by the Presbyterians.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42604</idno>
+            <idno type="STC">Wing G495</idno>
+            <idno type="STC">ESTC R215754</idno>
+            <idno type="EEBO-CITATION">99827527</idno>
+            <idno type="PROQUEST">99827527</idno>
+            <idno type="VID">31947</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42604)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31947)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1848:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A generall bill of the mortality of the clergy of London; or, a brief martyrology and catalogue of the learned, grave, religious, and painfull ministers of the City of London who have been imprisoned, plundered, and barbarousl[y] used, and deprived of all livelihood for themselve[s] and their families, in the late rebellion, for their constancy in the Protestant religion, established in this kingdom[,] and their loyalty to their King, under that great persecution by the Presbyterians.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed against St. Bartholomew day, 1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in Jesus College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  History --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31947:1"/>
+            <!-- PDF PAGE 97 -->
+            <pb facs="tcp:31947:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>A GENERALL BILL OF THE MORTALITY OF THE Clergy of London; Or, A Brief MARTYROLOGY and CATALOGUE OF THE Learned, Grave, Religious, AND Painfull MINISTERS OF THE CITY of LONDON,</p>
+            <p>Who have been Impriſoned, Plundered, and Barbarouſl<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uſed, and deprived of all Livelihood for themſelve<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and their Families, in the late REBELLION, for their con<g ref="char:EOLunhyphen"/>ſtancy in the Proteſtant Religion, eſtabliſht in this Kingdom and their Loyalty to their KING, under that Grand Perſecution by the PRESBYTERIANS.</p>
+            <p>
+               <hi>LONDON</hi> Printed againſt St. <hi>Bartholomew</hi> day, 1662.</p>
+            <pb facs="tcp:31947:2"/>
+            <!-- PDF PAGE 98 -->
+            <pb facs="tcp:31947:2"/>
+            <!-- PDF PAGE 98 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="bill_of_mortality">
+            <pb facs="tcp:31947:3"/>
+            <!-- PDF PAGE 99 -->
+            <pb n="1" facs="tcp:31947:3"/>
+            <!-- PDF PAGE 99 -->
+            <div type="part">
+               <head>A Generall Bill of the Mortality of the Clergy of <hi>London,</hi> &amp;c.</head>
+               <list>
+                  <item>
+                     <seg rend="decorInit">T</seg>HE Cathedrall Church of St. <hi>Pauls,</hi> the Dean, Reſidentiaries, and other Members of that Church, ſequeſtred, plundred, and turn'd out.</item>
+                  <item>St. Alhallows Wood-ſtreet, Dr. <hi>Wats</hi> ſe<g ref="char:EOLhyphen"/>queſtred, plundred, his Wife and Children turn'd out of doors, and himſelf forced to fly.</item>
+                  <item>St. Alhallows Barking, Dr. <hi>Lafield</hi> purſuyvanted, impriſon<g ref="char:EOLhyphen"/>ed in <hi>Ely-houſe,</hi> and the ſhips; ſequeſtred and plundred, after<g ref="char:EOLhyphen"/>wards forced to fly.</item>
+                  <item>St. Alhallows Lumbard-ſtreet, Mr. <hi>Weſton</hi> ſequeſtred.</item>
+                  <item>St. Alphage, Dr. <hi>Halſie</hi> ſhamefully abuſed, his Cap pull'd off, to ſee if he were not a ſhaven Prieſt, voted out, and dead with grief.</item>
+                  <item>St. Andrew Hubbard, Dr. <hi>Chambers</hi> ſequeſtred.</item>
+                  <item>St. Andrew Underſhaft,
+<list>
+                        <item>1. Mr. <hi>Maſon</hi> through vexation forced to reſign.</item>
+                        <item>2. Mr. <hi>Prichard</hi> after that ſequeſtred.</item>
+                     </list>
+                  </item>
+                  <item>St. Andrew Wardrobe, Dr. <hi>Iſaackson</hi> ſequeſtred.</item>
+                  <item>St. Anne Alderſgate, Dr. <hi>Clewet</hi> ſequeſtred.</item>
+                  <item>St. Auſtins Pariſh, Mr. <hi>
+                        <g ref="char:V">Ʋ</g>dall</hi> ſequeſtred, his bed-rid Wife turn'd out of doors, and left in the ſtreets.</item>
+                  <item>St. Bartholomew Exchange, Dr. <hi>Grant</hi> ſequeſtred.</item>
+                  <item>St. Bennet Fink, Mr. <hi>Warfield</hi> ſequeſtred.</item>
+                  <item>St. Bennet Grace-Church, Mr. <hi>Quelch</hi> ſequeſtred.</item>
+                  <item>St. Bennet Pauls-wharſe, Mr. <hi>Adams</hi> ſequeſtred.</item>
+                  <item>St. Bennet Sherhog, Mr. <hi>Morgan</hi> dead with grief.</item>
+                  <item>St. Botolph Billinſgate, Mr. <hi>King</hi> ſequeſtred, and forc'd to fly.</item>
+                  <item>Chriſt-Church, Mr. <hi>Finch</hi> turn'd out, and dead.</item>
+                  <item>St. Chriſtophers, Mr. <hi>Hanſlow</hi> forc'd to reſign.</item>
+                  <item>
+                     <pb n="2" facs="tcp:31947:4"/>
+                     <!-- PDF PAGE 100 -->
+St. Clement Eaſt-Cheap, Mr. <hi>Stone</hi> ſhamefully abuſed, ſe<g ref="char:EOLhyphen"/>queſtred, ſent Priſoner to <hi>Plimouth,</hi> and plundered.</item>
+                  <item>St. Dionys Back-Church, Mr. <hi>Humes</hi> ſequeſtred, and abuſed.</item>
+                  <item>St. Dunſtans Eaſt, Mr. <hi>Childerly</hi> revil'd, abus'd, and dead.</item>
+                  <item>St. Edmonds Lombard-ſtreet, Mr. <hi>Pagu</hi> moleſted, ſilen<g ref="char:EOLhyphen"/>ced, and dead.</item>
+                  <item>St. Ethleborough, Mr. <hi>Clark</hi> ſequeſtred, impriſoned.</item>
+                  <item>St. Faiths, Dr. <hi>Browne</hi> ſequeſtred, and dead.</item>
+                  <item>St. Foſters, Mr. <hi>Batty</hi> ſequeſtred, plundered, forc'd to fly, and dead.</item>
+                  <item>St. Gabriell Frenne-Church, Mr. <hi>Cook</hi> ſequeſtred.</item>
+                  <item>St. George Botolph lane, Dr. <hi>Styles</hi> forc'd to reſign.</item>
+                  <item>St. Gregories by St. Pauls, Dr. <hi>Styles</hi> forc'd to reſign.</item>
+                  <item>St. Hellens, Mr <hi>Milward</hi> turn'd out and dead.</item>
+                  <item>St. James Dukes-place, Mr. ſequeſtred.</item>
+                  <item>St. James Garlick-Hith,
+<list>
+                        <item>1. Mr. <hi>Freeman</hi> plundred, and ſe<g ref="char:EOLhyphen"/>queſtred.</item>
+                        <item>2. Mr. <hi>Anthony</hi> his Curate turn'd out.</item>
+                     </list>
+                  </item>
+                  <item>St. John Baptiſt, Mr. <hi>Weemſl<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y</hi> ſequeſtred.</item>
+                  <item>St. John Zachary, Mr. <hi>Edlin</hi> ſequeſtred, forc'd to fly, and plundered.</item>
+                  <item>St. Catherine Coleman,
+<list>
+                        <item>1. Dr. <hi>Hill</hi> forc'd to reſign:</item>
+                        <item>2. Mr. <hi>Kilbuts</hi> ſequeſtred</item>
+                     </list>
+                  </item>
+                  <item>St. Catharine Cree-Church, Mr. <hi>Ruſh</hi> turn'd out.</item>
+                  <item>St. Laurence Jury, Mr. <hi>Crane</hi> ſequeſtred.</item>
+                  <item>St. Leonard Faſt-cheap, Mr. <hi>Calfe</hi> forc'd to give up to Mr. <hi>Roborow,</hi> Scribe to the Aſſembly.</item>
+                  <item>St. Leonard Foſter lane, Mr. <hi>Ward</hi> forced to fly, plundred, ſequeſtred, and dead for want of neceſſaries.</item>
+                  <item>St. Margaret Lothbury, Mr. <hi>Tabor</hi> plundred, impriſoned in the Kings-bench, his Wife and Children turned out of doors at mid-night, and he ſequeſtred.</item>
+                  <item>St. Margaret New-Fiſh ſtreet, Mr. <hi>Porry</hi> forced to fly, plundred, and ſequeſtred.</item>
+                  <item>St. Margaret Pattons, Mr. <hi>Meggs</hi> plundred, impriſoned in <hi>Ely-Houſe,</hi> and ſequeſtred.</item>
+                  <item>St. Mary Ab-Church, Mr. <hi>Stone</hi> plundred, ſent Priſoner by Sea to <hi>Plimouth,</hi> and ſequeſtred.</item>
+                  <item>St. Mary Aldermary, Mr. <hi>Brown</hi> forced to forſake it.</item>
+                  <item>St. Mary le Bow, Mr. <hi>Leech</hi> ſequeſtred, and dead with grief.</item>
+                  <item>
+                     <pb n="3" facs="tcp:31947:4"/>
+                     <!-- PDF PAGE 100 -->
+St. Mary Bothaw, Mr. <hi>Proctor</hi> forced to fly, and ſequeſtred.</item>
+                  <item>St. Mary Hill
+<list>
+                        <item>1. Dr. <hi>Baker</hi> ſequeſtred, purſuivanted, and impriſoned.</item>
+                        <item>2 Mr. <hi>Woodcock</hi> turned out, and forced to fly.</item>
+                     </list>
+                  </item>
+                  <item>St. Mary Mounthaw, Mr. <hi>Thrall</hi> ſequeſtred, and ſhame<g ref="char:EOLhyphen"/>fully abuſed.</item>
+                  <item>St. Mary Somerſet, Mr. <hi>Cook</hi> ſequeſtred.</item>
+                  <item>St. Mary Wool-Church, Mr. <hi>Tireman</hi> forced to forſake it</item>
+                  <item>St. Mary Woolnoth, Mr. <hi>Sh<gap reason="illegible" extent="3+ letters">
+                           <desc>•••…</desc>
+                        </gap>e</hi> moleſted, and vext to death, and denyed a Funerall Sermon to be preached by Dr. <hi>Holdſworth,</hi> as he deſired.</item>
+                  <item>St. Martins Iron-monger lane, Mr. <hi>Sparke</hi> ſequeſtred, and plundred.</item>
+                  <item>St. Martins Ludgate, Dr. <hi>Jermin</hi> ſequeſtred.</item>
+                  <item>St. Martins Orgars, Dr. <hi>Walton</hi> aſſaulted, ſequeſtred, plun<g ref="char:EOLhyphen"/>dred, forced to fly, Mr. <hi>Moſſe</hi> his Curate turned out.</item>
+                  <item>St. Martins Outwich, Dr. <hi>Pierce</hi> ſequeſtred, and dead.</item>
+                  <item>St. Martins Vintry, Dr. <hi>Ryves</hi> ſequeſtred, plundred, and forc'd to fly.</item>
+                  <item>St. Mathew Friday ſtreet, Mr <hi>Cheſtlin</hi> violently aſſaulted in his houſe, impriſoned in the Compter, thence ſent to <hi>Col<g ref="char:EOLhyphen"/>cheſter</hi> Goal in <hi>Eſſex,</hi> ſequeſtred, and plundered.</item>
+                  <item>St. Maudlins Milk ſtreet, Mr. <hi>Jones</hi> ſequeſtred.</item>
+                  <item>St. Maudlins Old-Fiſh ſtreet, Dr. <hi>Griffith</hi> ſequeſtred, plun<g ref="char:EOLhyphen"/>dred, impri<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oned, in <hi>Newgate,</hi> when being let out, he was forc'd to fly, and ſince impriſoned again in <hi>Peter-houſe.</hi>
+                  </item>
+                  <item>St. Michaell Baſſiſhaw, Dr. <hi>Gifford</hi> ſequeſtred.</item>
+                  <item>St. Michaell Cornhill,
+<list>
+                        <item>1. Dr. <hi>Brough</hi> ſequeſtred, plunde<g ref="char:EOLhyphen"/>red, Wife and Children turn'd out of doors, his Wife dead with grief,</item>
+                        <item>2. Mr. <hi>Weld</hi> his Curate aſſaulted, beaten in the Church and turn'd out.</item>
+                     </list>
+                  </item>
+                  <item>St. Michaell Queen Hith, Mr <hi>Hill</hi> ſequeſtred.</item>
+                  <item>St. Michaell Quern, Mr. <hi>Launce</hi> ſequeſtred.</item>
+                  <item>St. Michaell Royall, Mr. <hi>Proctor</hi> ſequeſtred, and forc'd to fly.</item>
+                  <item>St. Mildred Bread ſtreet, Mr. <hi>Bradſhaw</hi> ſequeſtred,</item>
+                  <item>St. Mildred Poultry, Mr. <hi>Maden</hi> ſequeſtred, and gone be<g ref="char:EOLhyphen"/>yond Sea.</item>
+                  <item>St. Nicholas Acons, Mr. <hi>Pennet</hi> ſequeſtred.</item>
+                  <item>St. Nicholas Cole-abby, Mr. <hi>Chibald</hi> ſequeſtred.</item>
+                  <item>St. Nicholas Olaves, Dr. <hi>Ch<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſhire</hi> moleſted, and forc'd to reſign.</item>
+                  <item>
+                     <pb n="4" facs="tcp:31947:5"/>
+                     <!-- PDF PAGE 101 -->
+St. Olaves Hart ſtreet, Mr. <hi>Haines</hi> ſequeſtred.</item>
+                  <item>St. Olaves Jewry, Mr. <hi>Tuke</hi> ſequeſtred, plundered, and im<g ref="char:EOLhyphen"/>priſoned.</item>
+                  <item>St. Olaves ſilver ſtreet, Dr. <hi>Booſie</hi> abuſed, and dead with grief.</item>
+                  <item>St. Pancraſſe Soper lane, Mr. <hi>Eccop</hi> ſequeſtred, plundred, forc'd to fly, Wife and Children turn'd out of doors.</item>
+                  <item>St. Peters Cheap-ſide, Mr. <hi>Vocheir</hi> ſequeſtred, and dead with grief.</item>
+                  <item>St. Peters Cornhill, Dr. <hi>Fairfax</hi> ſequeſtred, plundered, impriſoned in <hi>Ely-houſe,</hi> and the ſhips, his Wife and Children turn'd out of doors.</item>
+                  <item>St. Peters Pauls wharfe, Mr. <hi>Marbury</hi> ſequeſtred.</item>
+                  <item>St. Peters Poor, Dr. <hi>Holdſworth</hi> ſequeſtred, plundered, impriſoned in <hi>Ely-houſe,</hi> then in the <hi>Tower.</hi>
+                  </item>
+                  <item>St. Stephens Walbrook, Dr. <hi>Howell</hi> through vexation forc'd to fly.</item>
+                  <item>St. Swithins, Mr. <hi>Owen</hi> ſequeſtred.</item>
+                  <item>St. Thomas Apoſtle, Mr. <hi>Cooper</hi> ſequeſtred, plundered, ſent Priſoner to <hi>Leeds</hi> Caſtle in <hi>Kent,</hi> is dead with grief.</item>
+                  <item>Trinity Pariſh Mr. <hi>Harriſon</hi> ſequeſtred.</item>
+               </list>
+               <p>In the 97. Pariſhes within the Walls, beſides St. <hi>Pauls,</hi> outed 85, and dead 16.</p>
+            </div>
+            <div type="part">
+               <list>
+                  <head>Pariſhes without the Walls.</head>
+                  <item>St. ANdrews Holborn, Dr. <hi>Hacket</hi> ſequeſtred.</item>
+                  <item>St. Bartholmews Great, Bp. <hi>Weſtfield</hi> abuſed in the ſtreet, ſequeſtred, forced to fly and is dead.</item>
+                  <item>St. Bartholmew leſſe,
+<list>
+                        <item>1. Mr. <hi>Henſhaw,</hi>
+                        </item>
+                        <item>2. Mr. <hi>Hall:</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>St. Brides Parriſh, Mr. <hi>Palmer</hi> ſequeſtred.</item>
+                  <item>St. Bridewell Precinct, Mr. <hi>Browne</hi> turn'd out.</item>
+                  <item>St. Botolph Alderſgate, Mr. <hi>Booth</hi> ſequeſtred, and plun<g ref="char:EOLhyphen"/>dered.</item>
+                  <item>St. Botolph Allgate, Dr. <hi>Swadlin</hi> ſequeſtred, plundred, im<g ref="char:EOLhyphen"/>priſoned at <hi>Gr<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſham</hi> Colledge, and <hi>Newgate,</hi> his Wife and Children turn'd out of doors.</item>
+                  <item>St. Botolph Biſhops gate, Mr. <hi>Rogers</hi> ſequeſtred.</item>
+                  <item>St. Danſtans Weſt, Dr. <hi>Marſh</hi> ſequeſtred, and died in re<g ref="char:EOLhyphen"/>mote parts.</item>
+                  <item>
+                     <pb n="5" facs="tcp:31947:5"/>
+                     <!-- PDF PAGE 101 -->
+St. Georges Southwark, Dr. <hi>Hobſon</hi> ſequeſtred.</item>
+                  <item>St. Giles Criplegate,
+<list>
+                        <item>1. Dr. <hi>Fuller</hi> ſequeſtred, plundered, impriſoned at <hi>Ely-houſe.</hi>
+                        </item>
+                        <item>2. Mr. <hi>Hutton</hi> his Curate, aſſaulted in the Church and impriſoned.</item>
+                     </list>
+                  </item>
+                  <item>St. Olaves Southwark, Dr. <hi>Turner</hi> ſequeſtred, plundred, fetcht up Priſoner with a Troop of Souldiers, and after for<g ref="char:EOLhyphen"/>ced to fly.</item>
+                  <item>St. Sepulchers Pariſh, Mr. <hi>Pigot</hi> the Lecturer turn'd out.</item>
+                  <item>St. Thomas Southwark, Mr. <hi>Spencer</hi> ſequeſtred, and impri<g ref="char:EOLhyphen"/>ſoned.</item>
+               </list>
+               <p>In the 16 Pariſhes without the Walls, outed 14. dead 2.</p>
+            </div>
+            <div type="part">
+               <list>
+                  <head>In the 10. out Pariſhes.</head>
+                  <item>St. CLement Danes, Dr. <hi>Dukson</hi> ſequeſtred, plundred, and forc'd to fly.</item>
+                  <item>Covent Garden, Mr. <hi>Hall</hi> ſequeſtred, and forc'd to fly.</item>
+                  <item>St. Gyles in the Fields, Dr. <hi>Heywood</hi> ſequeſtred, impriſoned in the Compter, <hi>Ely-houſe,</hi> and the ſhips, forc'd to fly, his Wife and Children turn'd out of doors.</item>
+                  <item>St. Leonard Shoreditch, Mr. <hi>Squire</hi> ſequeſtred, impriſon<g ref="char:EOLhyphen"/>ed in <hi>Greſham</hi> Colledge, <hi>Newgate,</hi> and the <hi>Kings Bench,</hi> his Wife and Children plundred and turn'd out of doors.</item>
+                  <item>St. Martins in the Fields, Dr. <hi>Bray</hi> ſequeſtred, impriſoned, plundred, forc'd to fly, and dead in remote parts.</item>
+                  <item>St. Mary White-chappel, Dr. <hi>Johnſon</hi> ſequeſtred.</item>
+                  <item>St. Magdalen Bermondſey, Dr. <hi>Paske</hi> ſequeſtred.</item>
+                  <item>Savoy,
+<list>
+                        <item>1. Dr. <hi>Balcanquell</hi> ſequeſtred, plundred, forc'd to fly, and dead in remote parts.</item>
+                        <item>2. Mr. <hi>Fuller</hi> forc'd to fly.</item>
+                     </list>
+                  </item>
+               </list>
+               <p>In the 10. out Pariſhes outed 9. dead 2.</p>
+            </div>
+            <div type="part">
+               <list>
+                  <head>In the Adjacent Towns.</head>
+                  <item>THE Dean and all the Prebends of the Abby Church <hi>Weſtminſter</hi> (but only Mr. <hi>Lambert Obaston</hi>) ſequeſtred.</item>
+                  <item>St. Margarets <hi>Westminster,</hi> Dr. <hi>Wimberly</hi> ſequeſtred.</item>
+                  <item>Lambeth, Dr. <hi>Featly</hi> ſequeſtred, plundred, impriſoned, and dead a Priſoner.</item>
+                  <item>
+                     <pb n="6" facs="tcp:31947:6"/>
+                     <!-- PDF PAGE 102 -->
+Newington, Mr. <hi>Heath</hi> ſequeſtred.</item>
+                  <item>Hackney, Mr. <hi>Moor</hi> ſequeſtred.</item>
+                  <item>Iſlington, Divers Miniſters turn'd out.</item>
+                  <item>Stepney, Dr. <hi>Stamp</hi> ſequeſtred, plundred, forc'd to fly.</item>
+               </list>
+               <p>In the Adjacent Towns, beſides thoſe of the Abby Church and Iſlington, outed 5. dead 1.</p>
+            </div>
+            <div type="part">
+               <list>
+                  <item>The total of the Miniſters of <hi>London</hi> within the Bills of Mortality (beſides St. <hi>Pauls</hi> and <hi>Weſtminster</hi>) turn'd out of their livings by ſequeſtration and otherwiſe. 115</item>
+                  <item>Whereof Doctors in Divinity above<lb/>
+And the moſt of them plundred of their goods, and their Wives and Children turn'd out of doors. 40.</item>
+                  <item>Impriſoned in <hi>London,</hi> and in the ſhips and in the ſe<g ref="char:EOLhyphen"/>verall Go<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>les and Caſtles in the Country. 20.</item>
+                  <item>Fled to prevent Impriſonment. 25.</item>
+                  <item>Dead in remote parts, and in priſons with grief. 22.</item>
+                  <item>About 40. Churches void, having no conſtant Miniſter in them.</item>
+               </list>
+               <epigraph>
+                  <q xml:lang="lat">
+                     <p>
+                        <g ref="char:V">Ʋ</g>ſquequo Domine,</p>
+                  </q>
+                  <bibl>Revel. 6.10.</bibl>
+               </epigraph>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>IN this brief Catalogue, you have written as it were in ſhort hand within the compaſſe of a penny, the Tragical and more then barbarous Cruelties, exerciſed up<g ref="char:EOLhyphen"/>on the true Proteſtant Clergy, as well within as without the Walls and Liberties of <hi>London;</hi> As they were acted in good earneſt by the Brethren of the Presbytery, who now themſelves cry out ſo much of Perſecution. It is much deſired that ſome Inge<g ref="char:EOLhyphen"/>nuous Perſons in the ſeverall Counties of this Kingdome, will collect and preſent to the World in larger Characters, a Catalogue likewiſe of thoſe Loyall Ministers, who in each reſpective County, have paſt through the Presbyterian Furnace, which like <hi>Nebuchadnezzars</hi> Oven, was made ſeven times hotter, then that into which Gods juſtice, and the peeviſhneſſe of their refractory Spirits, hath now caſt their mercileſſe Perſecutors.</p>
+            <epigraph>
+               <q>
+                  <p>Curſed be their wrath for it was fierce, and their rage for it was cruell; I will divide them in <hi>Jacob,</hi> and ſcatter them in <hi>Iſrael.</hi>
+                  </p>
+               </q>
+               <bibl>Gen. 49.7.</bibl>
+            </epigraph>
+            <pb facs="tcp:31947:6"/>
+            <!-- PDF PAGE 102 -->
+         </div>
+      </body>
+   </text>
+</TEI>
